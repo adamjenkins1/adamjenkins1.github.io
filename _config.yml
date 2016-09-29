@@ -1,4 +1,4 @@
 name: Title
 author: webshootertk
 markdown: kramdown
-highlighter: rogue
+highlighter: true
