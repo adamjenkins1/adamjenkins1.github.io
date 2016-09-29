@@ -15,7 +15,7 @@ title: Index
 <p><div class="span4">
 <center>
 <h2>About</h2>
-<img src="media/images/facebook.jpg" class="thumbnail" />
+<img src="/media/images/facebook.jpg" class="thumbnail" />
 <p>There are quite a few things I do in my free time. </p>
 <p><a class="btn" href="/about.html">View details &raquo;</a></p>
 </center>
