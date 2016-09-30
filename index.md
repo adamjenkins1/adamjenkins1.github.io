@@ -7,7 +7,7 @@ title: Index
 <p><h1>Welcome</h1>
 <p>...to my little corner of the web</p>
 <!--  comment to get rid of vim colors-->
-<p><a class="btn btn-primary btn-large" href = "https://github.com/adamjenkins1">Learn More &raquo; </a></p></p></div>
+<p><a class="btn btn-primary btn-large" href = "/work.html">Learn More &raquo; </a></p></p></div>
 
 <div class="row">
 <!-- Main hero unit for a primary marketing message or call to action -->
@@ -16,7 +16,7 @@ title: Index
 <center>
 <h2>About</h2>
 <img src="Data/media/images/facebook.jpg" class="thumbnail" />
-<p>There are quite a few things I do in my free time. </p>
+<p>There are quite a few things I do in my free time</p>
 <p><a class="btn" href="/about.html">View details &raquo;</a></p>
 </center>
 </div>
@@ -33,6 +33,6 @@ title: Index
 <h2>Projects</h2>
 <img src="Data/media/images/github.gif" class="thumbnail" />
 <p>All of the relevant projects I've completed can be found here</p> <!-- ' -->
-<p><a class="btn" href="#">View details &raquo;</a></p>
+<p><a class="btn" href="/projects.html">View details &raquo;</a></p>
 </center>
 </div></p></div> 
