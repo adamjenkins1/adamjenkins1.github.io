@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Index
+title: Home
 ---
 
 <div class="hero-unit">
-<p><h1>Welcome</h1>
+<h1>Welcome</h1>
 <p>...to my little corner of the web</p>
 <!--  comment to get rid of vim colors-->
-<p><a class="btn btn-primary btn-large" href = "/work.html">Learn More &raquo; </a></p></p></div>
+<p><a class="btn btn-primary btn-large" href = "/work.html">Learn More &raquo; </a></p></div>
 
 <div class="row">
 <!-- Main hero unit for a primary marketing message or call to action -->
