@@ -17,6 +17,7 @@ title: Home
 <h2>About</h2>
 <img src="Data/media/images/facebook.jpg" height="250" width="250" class="thumbnail" />
 <p>There are quite a few things I do in my free time</p>
+<br>
 <p><a class="btn" href="/about.html">View details &raquo;</a></p>
 </center>
 </div>
