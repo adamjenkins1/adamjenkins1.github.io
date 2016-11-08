@@ -6,7 +6,7 @@ title: Home
 <div class="hero-unit">
 <h1>Welcome</h1>
 <p>...to my little corner of the web</p>
-<!--  comment to get rid of vim colors-->
+<!-- <p>...to my little corner of the web</p> -->
 <p><a class="btn btn-primary btn-large" href = "/work.html">Learn More &raquo; </a></p></div>
 
 <div class="row">
