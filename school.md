@@ -33,11 +33,17 @@ group: "navigation"
 </tr><tr>
 <td>S16</td><td>CINS 370</td><td>Introduction to databases</td>
 </tr><tr>
-<td>S16</td><td>CSCI 311</td><td>Algorithms and data structures</td>
-</tr><tr>
 <td>S16</td><td>MATH 314</td><td>Probability & statistics for science and technology majors</td>
 </tr><tr>
 <td>S16</td><td>POLS 155</td><td>American government: national/state/local</td>
+</tr><tr>
+<td>F16</td><td>CSCI 311</td><td>Algorithms and data structures</td>
+</tr><tr>
+<td>F16</td><td>CSCI 446</td><td>Intro to computer networks</td>
+</tr><tr>
+<td>F16</td><td>EECE 320</td><td>System architecture/performance</td>
+</tr><tr>
+<td>F16</td><td>HNRS 202</td><td>Nature</td>
 </tr>
 </table>
 </ul>
