@@ -37,3 +37,4 @@ title: Home
 <p><a class="btn" href="/projects.html">View details &raquo;</a></p>
 </center>
 </div></p></div> 
+
