@@ -49,7 +49,7 @@ keep a record, but space can be an issue) if it exists, and begins uploading the
 Once the new archive has successfully been uploaded, the script will exit.  The script is run
 like this: <code>./backup.py --host HOSTNAME --user USER NAME</code>, but that became 
 a lot to type all the time, so I wrote additional bash aliases to make it a bit easier. 
-Now all I have to do now to backup my files is type <code>backup-[SERVER_NAME]</code>, 
+Now all I have to do now to backup my files is type <code>backup-[SERVER NAME]</code>, 
 and the script is called with the correct command line arguments. I have access to three 
 different Linux servers, so all I have to do to backup to all of them is 
 type <code>backup-all</code>, and the script is run for each server.
