@@ -35,7 +35,25 @@ I chose not to forward any ports on the server, so it is only available locally.
 
 <h3 style="display:inline;">Python File Backup Script</h3>
 <h4 style="display:inline; float:right;">January - March 2017</h4>
-<p>asdf</p>
+<p>
+I'm a tad bit paranoid about losing files, so generally what I used to do to backup everything
+I cared about locally was to put it into a gzipped tarball (similar to a zip file) and 
+then upload it to a Linux server.
+This became tiresome after a while, so I decided to write a Python script to automate
+the process.  The script takes the host and the user name as command line arguments. 
+Once started, it will call a bash alias I called "archive" to throw all necessary files 
+into a gzipped tarball and name it according to the date.  This step is skipped if the 
+archive already exists. Next, using a SSH library called Paramiko, the script 
+connects to the given server, deletes the old archive (it would be best to save them to 
+keep a record, but space can be an issue) if it exists, and begins uploading the new archive. 
+Once the new archive has successfully been uploaded, the script will exit.  The script is run
+like this: <code>./backup.py --host HOSTNAME --user USER NAME</code>, but that became 
+a lot to type all the time, so I wrote additional bash aliases to make it a bit easier. 
+Now all I have to do now to backup my files is type <code>backup-[SERVER_NAME]</code>, 
+and the script is called with the correct command line arguments. I have access to three 
+different Linux servers, so all I have to do to backup to all of them is 
+type <code>backup-all</code>, and the script is run for each server.
+</p>
 
 <h3 style="display:inline;">TN Rotational Schedule</h3>
 <h4 style="display:inline; float:right;">January - August 2016</h4>
