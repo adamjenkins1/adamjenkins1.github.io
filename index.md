@@ -1,12 +1,11 @@
 ---
 layout: default
-title: Home
+title: home
 ---
 
 <div class="hero-unit">
-<h1>Welcome</h1>
-<p>...to my little corner of the web</p>
-<!-- <p>...to my little corner of the web</p> -->
+<h1>Adam Jenkins</h1>
+<p>Software Engineer | Computer Science student</p>
 <p><a class="btn btn-primary btn-large" href = "/work.html">Learn More &raquo; </a></p></div>
 
 <div class="row">

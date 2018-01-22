@@ -120,5 +120,36 @@ group: "navigation"
       <td>HNRS 202</td>
       <td>Nature</td>
     </tr>
+
+    <tr>
+      <td>F17</td>
+      <td>CINS 448</td>
+      <td>Computer security</td>
+    </tr>
+
+    <tr>
+      <td>F17</td>
+      <td>CINS 465</td>
+      <td>Web programming fundamentals</td>
+    </tr>
+
+    <tr>
+      <td>F17</td>
+      <td>CSCI 301</td>
+      <td>Computer's impact on society</td>
+    </tr>
+
+    <tr>
+      <td>F17</td>
+      <td>CSCI 515</td>
+      <td>Compiler design</td>
+    </tr>
+
+    <tr>
+      <td>F17</td>
+      <td>CSCI 580</td>
+      <td>Artificial intelligence</td>
+    </tr>
+
   </table>
 </ul>
