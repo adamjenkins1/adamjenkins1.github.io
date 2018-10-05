@@ -6,6 +6,44 @@ group: "navigation"
 
 <h2>Work History</h2>     
 <ul>
+
+<h3 style="display:inline;"><a href="https://www.veeva.com/" target="_blank">Veeva Systems</a> - Security Engineer Intern</h3> 
+<h4 style="display:inline; float:right;">May - August 2018</h4>
+<p>While at Veeva, I worked in collaboration with additional security engineers
+to design and implement an incident response Slackbot.  The purpose of this 
+Slackbot was to notify us when we received an alert from our several security 
+alert applications. When an alert was received, the bot posted to the Slack 
+channel and provided the ability for users to open a 
+<a href="https://www.atlassian.com/software/jira" target="_blank">JIRA</a>
+ticket for the triggered security alert, or dismiss it. We decided to implement 
+this Slackbot in <a href="https://kubernetes.io/" target="_blank">Kubernetes</a>
+and designed the project with the decoupled micro-service architecture in mind.  
+To elaborate on that, each micro-service of this bot (posting to the channel, 
+listening for the alerts, creating the ticket, etc.) was implemented as its own 
+<a href="https://www.docker.com/resources/what-container" target="_blank">container</a> 
+in our Kubernetes cluster. Our Slackbot was hosted on AWS 
+<a href="https://aws.amazon.com/eks/" target="_blank">EKS</a> which is Amazon's managed Kubernetes service.
+Over the course of the internship, I completed 
+the <a href="https://minio.io/" target="_blank">Minio</a> and JIRA containers 
+(this included the <a href="http://flask.pocoo.org/" target="_blank">Flask</a> 
+<a href="https://www.codecademy.com/articles/what-is-rest" target="_blank">REST</a> 
+<a href="https://medium.freecodecamp.org/what-is-an-api-in-english-please-b880a3214a82" target="_blank">API</a> 
+to create the JIRA ticket), and worked on the incident response container which was responsible
+for parsing alerts.  I also created a <a href="https://helm.sh/" target="_blank">Helm</a> 
+chart to organize and generalize 
+our Kubernetes deployments.  Later, I implemented 
+<a href="https://rollout.io/blog/blue-green-deployment/" target="_blank">blue/green deployments</a> 
+for our Slackbot and built the automation pipeline using 
+<a href="https://about.gitlab.com/features/gitlab-ci-cd/" target="_blank">GitLab CI/CD</a>
+to automate the test, build, deploy, and release stages of our software. 
+By the end of the internship, I had learned <a href="https://kubernetes.io/" target="_blank">Kubernetes</a>, 
+<a href="https://www.docker.com/" target="_blank">Docker</a>, 
+<a href="https://helm.sh/" target="_blank">Helm</a>, 
+<a href="https://about.gitlab.com/features/gitlab-ci-cd/" target="_blank">GitLab CI/CD</a>, 
+<a href="http://flask.pocoo.org/" target="_blank">Flask</a>, 
+and numerous <a href="https://aws.amazon.com/" target="_blank">AWS</a> services.
+</p>
+
 <h3 style="display:inline;"><a href="http://www.llnl.gov/" target="_blank">Lawrence Livermore National Lab</a> - Computation Intern</h3> 
 <h4 style="display:inline; float:right;">January - August 2017</h4>
 <p>After completing the Fall semester in 2016, I was hired for a co-op internship at Lawrence Livermore National Laboratory. 

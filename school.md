@@ -151,5 +151,65 @@ group: "navigation"
       <td>Artificial intelligence</td>
     </tr>
 
+    <tr>
+      <td>S18</td>
+      <td>CSCI 344</td>
+      <td>Shell programming</td>
+    </tr>
+
+    <tr>
+      <td>S18</td>
+      <td>CSCI 430</td>
+      <td>Software engineering</td>
+    </tr>
+
+    <tr>
+      <td>S18</td>
+      <td>CSCI 551</td>
+      <td>Numerical/parallel programming</td>
+    </tr>
+
+    <tr>
+      <td>S18</td>
+      <td>HIST 231</td>
+      <td>African American History</td>
+    </tr>
+
+    <tr>
+      <td>F18</td>
+      <td>CINS 548</td>
+      <td>Advanced computer security</td>
+    </tr>
+
+    <tr>
+      <td>F18</td>
+      <td>CMST 131</td>
+      <td>Public speaking</td>
+    </tr>
+
+    <tr>
+      <td>F18</td>
+      <td>CSCI 340</td>
+      <td>Operating systems</td>
+    </tr>
+
+    <tr>
+      <td>F18</td>
+      <td>CSCI 490</td>
+      <td>Senior project</td>
+    </tr>
+
+    <tr>
+      <td>F18</td>
+      <td>PHIL 336</td>
+      <td>American Indian Environmental Philosophy</td>
+    </tr>
+
+    <tr>
+      <td>F18</td>
+      <td>CSCI 550</td>
+      <td>Design/analysis of algorithms</td>
+    </tr>
+
   </table>
 </ul>
