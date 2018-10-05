@@ -52,7 +52,7 @@ Every year at the Annual Student Poster Symposium, faculty used to grade student
 My job for this project was to redesigned the existing JavaEE application to use the Java Play Framework and AngularJS 
 and also make design changes to improve user experience. I worked closely with my mentor and the other clients to ensure that the 
 application met the users' needs and also implement any changes they proposed to improve functionality. This was my first major
-web application, so it was a great opprotunity to learn how to implement a website backend that worked together 
+web application, so it was a great opportunity to learn how to implement a website backend that worked together 
 with the adaptive frontend built with AngularJS.  During the Annual Student Poster Symposium, SPGA was used by faculty members to grade
 several hundred posters and deliver concise and human readable results in the form of an Excel spreadsheet. The Java Cafe Replacement Application was meant 
 to do what it's name suggests: replace Java Cafe.  Java Cafe is an old Java web framework and I was tasked with replacing it with a 
